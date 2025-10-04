@@ -4,12 +4,13 @@ Separate names datasets analysis
 This project performs exploratory data analysis (EDA) and feature engineering on a dataset of names and IDs using Python and Jupyter Notebook. It's designed for beginners interested in learning data analysis step-by-step.
 
 ## Repo Structure
-text
+
 project_task/
   ├─ project_task.ipynb        # Main notebook for loading data and analysis
   ├─ contentseparatednames.csv # Dataset file with IDs and FirstNames
   ├─ requirements.txt          # Python package dependencies
   └─ README.md                 # This file
+
 ## Prerequisites
 Python 3.9+ recommended.
 Required Python libraries:
@@ -20,7 +21,7 @@ Clone the repo.
 
 ## Create and activate a Python virtual environment :
 
-text
+
 python -m venv .venv
 .\.venv\Scripts\activate           # Windows
 source .venv/bin/activate          # Linux/macOS
@@ -29,10 +30,10 @@ pip install -r requirements.txt
 
 ## Launch the Notebook
 Install Jupyter if not already installed:
-text
+
 pip install jupyter
 Start Jupyter Notebook:
-text
+
 jupyter notebook
 Open project_task.ipynb and run all cells sequentially.
 
