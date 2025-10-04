@@ -8,8 +8,11 @@ This project performs exploratory data analysis (EDA) and feature engineering on
 project_task/
 
   ├─ project_task.ipynb        # Main notebook for loading data and analysis
+  
   ├─ contentseparatednames.csv # Dataset file with IDs and FirstName
+  
   ├─ requirements.txt          # Python package dependencies
+  
   └─ README.md                 # This file
 
 ## Prerequisites
