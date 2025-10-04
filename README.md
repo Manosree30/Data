@@ -1,5 +1,4 @@
-# Data
-Separate names datasets analysis
+# Separate names datasets analysis
 ## Name Dataset Analysis Project
 This project performs exploratory data analysis (EDA) and feature engineering on a dataset of names and IDs using Python and Jupyter Notebook. It's designed for beginners interested in learning data analysis step-by-step.
 
